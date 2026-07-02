@@ -9,7 +9,7 @@ Egresado de Ingeniería de Sistemas con sólida formación técnica. Me apasiona
 </p>
 
 - 👨‍💻 **Actualmente:** Enfocado en proyectos de software y administración de entornos tecnológicos.
-- 📚 **Educación:** Bachiller en Ingeniería de Sistemas (UPN) y Técnico en Redes y Comunicaciones (Cibertec).
+- 📚 **Educación:** Egresado en Ingeniería de Sistemas (UPN) y Técnico en Redes y Comunicaciones (Cibertec).
 - 🎯 **Objetivo:** Contribuir en la implementación de soluciones tecnológicas alineadas a las necesidades del negocio.
   
 - 📫 **Contacto:** 
@@ -52,22 +52,6 @@ Egresado de Ingeniería de Sistemas con sólida formación técnica. Me apasiona
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 - Mantenimiento y seguridad de redes.
 - Configuración de routers, switches y administración de servidores.
-
----
-
-### 📂 Proyectos Destacados
-* **Sistema de Seguridad Ciudadana:** Reporte de incidentes desarrollado con Angular (Frontend) y Spring Boot (Backend).
-* **Sistema Web de Gestión Hotelera:** Implementado con ASP.NET Core MVC.
-* **Sistema de Gestión Clínica:** Software enfocado en el monitoreo del área de obstetricia utilizando .NET C#.
-* **Sistema de Alquiler Vehicular:** Aplicación de escritorio creada en Java y SQL Server.
-* **Sistema de Gestión Escolar:** Administración académica desarrollado en C# y SQL Server.
-
----
-
-### 💼 Resumen de Experiencia Profesional
-* **Alice Solutions** | Desarrollador Web (Proyecto Temporal)
-* **NEONHOUSELED S.A.C** | Practicante Desarrollador Web (PHP, Laravel, React, JS)
-* **Gobierno Regional de La Libertad** | Practicante en Sub-Gerencia de TI (Soporte técnico e infraestructura)
 
 ---
 
